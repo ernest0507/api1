@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "root",
-    "password": "Password",
-    "database": "digeqdb",
+    "username": "ergoogbs.beget.tech",
+    "password": "Kashap05!",
+    "database": "ergoogbs_dq",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
+    "username": "ergoogbs.beget.tech",
+    "password": "Kashap05!",
+    "database": "ergoogbs_dq",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
+    "username": "ergoogbs.beget.tech",
+    "password": "Kashap05!",
+    "database": "ergoogbs_dq",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
