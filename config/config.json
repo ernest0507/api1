@@ -1,20 +1,20 @@
 {
   "development": {
-    "username": "ergoogbs",
+    "username": "ergoogbs_dq",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
     "host": "ergoogbs.beget.tech",
     "dialect": "mysql"
   },
   "test": {
-    "username": "ergoogbs",
+    "username": "ergoogbs_dq",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
     "host": "ergoogbs.beget.tech",
     "dialect": "mysql"
   },
   "production": {
-    "username": "ergoogbs",
+    "username": "ergoogbs_dq",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
     "host": "ergoogbs.beget.tech",
