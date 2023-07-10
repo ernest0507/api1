@@ -3,21 +3,21 @@
     "username": "ergoogbs.beget.tech",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
-    "host": "127.0.0.1",
+    "host": "45.9.40.50",
     "dialect": "mysql"
   },
   "test": {
     "username": "ergoogbs.beget.tech",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
-    "host": "127.0.0.1",
+    "host": "45.9.40.50",
     "dialect": "mysql"
   },
   "production": {
     "username": "ergoogbs.beget.tech",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
-    "host": "127.0.0.1",
+    "host": "45.9.40.50",
     "dialect": "mysql"
   }
 }
