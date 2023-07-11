@@ -3,21 +3,21 @@
     "username": "ergoogbs_dq",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
-    "host": "digital-equality.ru",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
     "username": "ergoogbs_dq",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
-    "host": "digital-equality.ru",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
     "username": "ergoogbs_dq",
     "password": "Kashap05!",
     "database": "ergoogbs_dq",
-    "host": "digital-equality.ru",
+    "host": "localhost",
     "dialect": "mysql"
   }
 }
