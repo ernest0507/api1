@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "Kashap05!",
-    "database": "ergoogbs_dq",
-    "host": "localhost",
+    "username": "ergoogbs_l",
+    "password": "Runet123!",
+    "database": "ergoogbs_l",
+    "host": "ergoogbs.beget.tech",
     "dialect": "mysql"
   },
   "test": {
-    "username": "ergoogbs_dq",
-    "password": "Kashap05!",
-    "database": "ergoogbs_dq",
-    "host": "localhost",
+    "username": "ergoogbs_l",
+    "password": "Runet123!",
+    "database": "ergoogbs_l",
+    "host": "ergoogbs.beget.tech",
     "dialect": "mysql"
   },
   "production": {
-    "username": "ergoogbs_dq",
-    "password": "Kashap05!",
-    "database": "ergoogbs_dq",
-    "host": "localhost",
+    "username": "ergoogbs_l",
+    "password": "Runet123!",
+    "database": "ergoogbs_l",
+    "host": "ergoogbs.beget.tech",
     "dialect": "mysql"
   }
 }
