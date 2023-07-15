@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "ergoogbs_l",
+    "username": "database",
     "password": "Runet123!",
-    "database": "ergoogbs_l",
-    "host": "ergoogbs.beget.tech",
+    "database": "database",
+    "host": "fuefiesohuet.beget.app",
     "dialect": "mysql"
   },
   "test": {
