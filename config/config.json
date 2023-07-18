@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "database",
+    "username": "default-db",
     "password": "Runet123!",
-    "database": "database",
-    "host": "fuefiesohuet.beget.app",
+    "database": "default-db",
+    "host": "quonurarur.beget.app",
     "dialect": "mysql"
   },
   "test": {
-    "username": "ergoogbs_l",
+    "username": "default-db",
     "password": "Runet123!",
-    "database": "ergoogbs_l",
-    "host": "ergoogbs.beget.tech",
+    "database": "default-db",
+    "host": "quonurarur.beget.app",
     "dialect": "mysql"
   },
   "production": {
-    "username": "ergoogbs_l",
+    "username": "default-db",
     "password": "Runet123!",
-    "database": "ergoogbs_l",
-    "host": "ergoogbs.beget.tech",
+    "database": "default-db",
+    "host": "quonurarur.beget.app",
     "dialect": "mysql"
   }
 }
